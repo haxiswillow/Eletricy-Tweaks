@@ -1,2 +1,2 @@
-# Eletricy
-Electricy is a Magisk module that aims to fulfill the request of its users, as an interactive controller it uses Spectrum, but renamed.
+# Eletricy Tweaks
+Eletricy Tweaks é um módulo Magisk que visa atender uma solicitação de seus usuários, como controlador interativo usa Spectrum, mas renomeado.
